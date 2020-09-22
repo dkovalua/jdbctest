@@ -54,7 +54,7 @@ https://www.oracle.com/database/technologies/jdbc-ucp-122-downloads.html
 
 javac -cp "c:\Dima\work\ojdbc8.jar;c:\Dima\work"  OracleCon.java
 
-### 8) Run java code
+### 8) Run java class
 
 java -cp "c:\Dima\work\ojdbc8.jar;c:\Dima\work" OracleCon
 
